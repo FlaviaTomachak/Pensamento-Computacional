@@ -10,5 +10,8 @@ body{
         font-size: 35px;
     
     }
-    p
+    p{
+        text-align: center;
+        font-family: cursive;
+    }
 

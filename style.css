@@ -21,3 +21,19 @@ body{
         width: 100%;
     }
 
+    h2{
+        text-align: center;
+        font-family: cursive;
+        font-size: 28px;
+        color:#77461b;
+
+    }
+
+    li{
+         text-align: center;
+         font-family: cursive;
+         font-size:20px ;
+         color: #1b1b1b;
+
+    }
+

@@ -34,4 +34,9 @@ body{
          color: #1b1b1b;
 
     }
-
+    .container{
+        width: 10%;
+        margin: 0 auto;
+    }
+    
+    
